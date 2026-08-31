@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Taiga 👋
 
-<!--
-**taiga0409/taiga0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大学院でRAGのセキュリティーを研究しています。
+Web開発とAI/LLM領域に興味があります。
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- TypeScript / JavaScript
+- Next.js / React
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+
+## 🔭 Currently Learning
+
+- LLM
+- RAG
+- AI Agent
+- Backend Architecture
+
+## 💻 Projects
+Coming soon...
+## 📝 Tech Blog
+
+Coming soon ...
+
+## 📫 Links
+
+- Zenn
+Coming soon ...
+
+- Portfolio
+Coming soon ...
