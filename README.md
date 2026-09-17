@@ -29,7 +29,8 @@ Coming soon ...
 ## 📫 Links
 
 - Zenn
-Coming soon ...
+
+  https://zenn.dev/wabisuke49
 
 - Portfolio
 Coming soon ...
